@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 scrapy = "*"
+requests = "==2.6.0"
+pyopenssl = "==22.0.0"
 
 [dev-packages]
 pylint = "*"

@@ -18,3 +18,7 @@ pipenv shell
 # Freeze the dependencies to requirements.txt
 pipenv requirements > requirements.txt
 ```
+
+## Good to Know
+
+- What is robots.txt: https://developers.google.com/search/docs/crawling-indexing/robots/intro
